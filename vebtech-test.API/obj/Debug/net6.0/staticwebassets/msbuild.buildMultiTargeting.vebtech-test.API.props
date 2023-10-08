@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\vebtech-test.API.props" />
+</Project>

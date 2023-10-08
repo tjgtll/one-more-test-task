@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\bin\Debug\net6.0\vebtech-test.DTO.deps.json
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\bin\Debug\net6.0\vebtech-test.DTO.dll
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\bin\Debug\net6.0\vebtech-test.DTO.pdb
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.AssemblyInfo.cs
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.dll
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\refint\vebtech-test.DTO.dll
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\vebtech-test.DTO.pdb
+C:\Users\user\source\repos\vebtech-test\vebtech-test.DTO\obj\Debug\net6.0\ref\vebtech-test.DTO.dll
