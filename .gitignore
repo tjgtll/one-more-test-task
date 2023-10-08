@@ -367,3 +367,9 @@ FodyWeavers.xsd
 
 */bin/
 */obj/
+
+/bin/
+/obj/
+
+bin/
+obj/
